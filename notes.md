@@ -5,5 +5,4 @@
     * as mentioned above, the launch file will change the target property on its own
         * it will change the target of all pieces of software being tracked by the logger
 * microsoft edge support
-* internet explorer support
 * all-round software support
